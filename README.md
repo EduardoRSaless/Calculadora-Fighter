@@ -21,7 +21,6 @@ A ideia principal é gamificar o utilitário. No futuro, a calculadora deixará 
 ## 🖼️ Visual do Projeto
 Aqui está o layout atual da interface (Custom UI):
 
-> **Nota:** Adicione seus screenshots na pasta `assets/screenshots` para exibi-los aqui!
 
 | Tela Principal | Estilo Arcade |
 | :---: | :---: |
